@@ -17,6 +17,7 @@ class LogMiddleware
     {
         // Se ejecuta despues de cargar gracias a terminate
         Log::info('Después de cargar la respuesta al navegador.');
+        
     }
 
 
